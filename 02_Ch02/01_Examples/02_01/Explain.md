@@ -4,7 +4,7 @@
 
 ### Comments
     
-   " // text     "  one line of comment
-   " /* text  */ "  multi-line comments ------> Not recomended to avoid programming errors that occur with  /**/, such as accidentally omitting closing
+   1. " // text     "  one line of comment
+   2. " /* text  */ "  multi-line comments ------> Not recomended to avoid programming errors that occur with  /**/, such as accidentally omitting closing
 
 ### #include Preprocessor Directive
