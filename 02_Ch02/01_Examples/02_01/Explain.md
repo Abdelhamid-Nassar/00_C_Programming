@@ -19,20 +19,20 @@
    1. " /* text  */ "  multi-line comments ------> Not recomended to avoid programming errors that occur with  /**/, such as accidentally omitting closing.
 
 ### #include Preprocessor Directive
-   **C Preprocessor Directive** The Preprocessor handless line Beginning with # befor compilation.
+   **C Preprocessor Directive** The Preprocessor handless line Begins with # before compilation.
 
-   Line 3 tells the preprocessor to include the contents of **Standerd input/output header(<stdio.h>)**. 
+   Line 3 tells the preprocessor to include the contents of **Standard input/output header(<stdio.h>)**. 
 
 ### Blank Lines and White Space
-   we use Blank Lines, Space Characters and Tab Characters to make Programs Easier to Read *Generally ignored by the compiler*.
+   we use Blank Lines, Space Characters, and Tab Characters to make Programs Easier to Read *Generally ignored by the compiler*.
 
 ### The **main** Function
 `int main(void){` 
-   + the line above is a part of every C program.
+   + The line above is a part of every C program.
    + the Parentheses after _main_ inedicate that _main_ is a program building block called a _**Function**_.
    
    > [!TIP]
-   > As a good practice, precode every function by comment (as in line 5) stating the function purpose.
+   > As a good practice, precode every function by comment (as in line 5) stating the function's purpose.
    
    + _int_ to the left of _main_ indicates the _main_ "returns" an integer value.
    + the _void_ in parentheses here means that _main_ does not receive any information.
@@ -45,7 +45,7 @@
 ### An Output Statment
    `printf("Welcome To C ! \n");`
 
-   + it mainly used to display on screen the **String** of character enclosed in quotatuin marks.
+   + It is mainly used to display on the screen the **String** of a character enclosed in quotation marks.
       - A **string** is sometimes called:
          - character string
          - message
@@ -61,7 +61,7 @@
        |\n| Moves the cursor to the beginning of the next line.|
        |\t| Moves the cursor to the next horizontal tab stop. |
        |\a| Produces a sound or visible alert without changing the current cursor position.|
-       |\\| Because the backslash has special meaning in a string, \\ is required to insert a backslash character in a string. |
+       |(\\)| Because the backslash has a special meaning in a string, \\ is required to insert a backslash character in a string. |
        |\"| Because strings are enclosed in double quotes, \" is required to insert a double-quote character in a string.|
 
 
@@ -71,7 +71,7 @@
 ### Indentation Conventions
 
 
-### Using Multiple printFs
+### Using Multiple printfs
 
 
 ### Displaying Multiple Lines with a Singel printf
