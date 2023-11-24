@@ -26,7 +26,6 @@
 ### Blank Lines and White Space
    we use Blank Lines, Space Characters and Tab Characters to make Programs Easier to Read *Generally ignored by the compiler*.
 
-
 ### The **main** Function
 `int main(void){` 
    + the line above is a part of every C program.
@@ -42,4 +41,40 @@
    >[!Note]
    > + When a program reaches _main's_closing right brace, the program terminates.
    > + The brace and the portion of the program between them form a _Block_.
+
+### An Output Statment
+   `printf("Welcome To C ! \n");`
+
+   + it mainley used to display on screen the **String** of character enclosed in quotatuin marks.
+      - A **string** is sometimes called:
+         - character string
+         - message
+         - literal 
+   +
+### Escape Sequences
+   + In a string, the backslash (\) is an escape character. It indicates that printf should do something out of the ordinary. 
+   + In a string, the compiler combines a backslash with the next character to form an escape sequence.
+
    
+       |Escape Sequences|Description|
+       |:--------------:|:--------------:|
+       |\n| Moves the cursor to the beginning of the next line.|
+       |\t| Moves the cursor to the next horizontal tab stop. |
+       |\a| Produces a sound or visible alert without changing the 
+       current cursor position.|
+       |\\| Because the backslash has special meaning in a string, 
+       \\ is required to insert a backslash character in a string. |
+       |\"| Because strings are enclosed in double quotes, \" is 
+       required to insert a double-quote character in a string.|
+
+
+### The Linker and Executables
+
+
+### Indentation Conventions
+
+
+### Using Multiple printFs
+
+
+### Displaying Multiple Lines with a Singel printf
