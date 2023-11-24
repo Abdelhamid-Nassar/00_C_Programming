@@ -45,7 +45,7 @@
 ### An Output Statment
    `printf("Welcome To C ! \n");`
 
-   + it mainley used to display on screen the **String** of character enclosed in quotatuin marks.
+   + it mainly used to display on screen the **String** of character enclosed in quotatuin marks.
       - A **string** is sometimes called:
          - character string
          - message
