@@ -61,7 +61,7 @@
        |\n| Moves the cursor to the beginning of the next line.|
        |\t| Moves the cursor to the next horizontal tab stop. |
        |\a| Produces a sound or visible alert without changing the current cursor position.|
-       |`\\`| Because the backslash has a special meaning in a string, \\ is required to insert a backslash character in a string. |
+       |"&#92;""&#92;"| Because the backslash has a special meaning in a string, \\ is required to insert a backslash character in a string. |
        |\"| Because strings are enclosed in double quotes, \" is required to insert a double-quote character in a string.|
 
 
