@@ -69,9 +69,28 @@
 
 
 ### Indentation Conventions
-
-
+>[!TIP]
+>Professional style guides often recommend using spaces rather than tabs
 ### Using Multiple printfs
-
-
+```
+1 // fig02_02.c
+2 // Printing on one line with two printf statements.
+3 #include <stdio.h>
+4
+5 // function main begins program execution
+6 int main(void) {
+7 printf("Welcome ");
+8 printf("to C!\n");
+9 } // end function main
+```
 ### Displaying Multiple Lines with a Singel printf
+```
+1 // fig02_03.c
+2 // Printing multiple lines with a single printf.
+3 #include <stdio.h>
+4
+5 // function main begins program execution
+6 int main(void) {
+7 printf("Welcome\nto\nC!\n");
+8 } // end function main
+```
