@@ -76,5 +76,5 @@ The conversion specification for an integer (%d) is the same in both printf and
 scanf—this is true for most, but not all, C data types.
 
 ### Calculations in printf Statements
-    Actually, we do not need the variable sum, because we can perform the calculation in the printf statement. So lines 16–19 can be replaced with
+Actually, we do not need the variable sum, because we can perform the calculation in the printf statement. So lines 16–19 can be replaced with
 `printf("Sum is %d\n", integer1 + integer2);`
