@@ -1,6 +1,6 @@
 # Chapter 02 
 
-## 2.2 Another Simple C Program: Adding Two Integers
+## 2.3 Another Simple C Program: Adding Two Integers
 
 ```
 // fig 02_04.c
