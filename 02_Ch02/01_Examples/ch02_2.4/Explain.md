@@ -14,5 +14,5 @@
  |Addition| + |f+7|f+7|
  |Subtraction| - |P-c |P-c|
  |Multiplication| * |bm|b*m|
- |Division| / |x/y or <img src="https://latex.codecogs.com/svg.latex?\Large&space;\frac{x}{y}" />|x/y|
+ |Division| / |x/y or <img src="https://latex.codecogs.com/svg.latex?\small&space;{\color{white}\frac{x}{y}}" />|x/y|
  |Remainder| % |r mod s|r % s|
