@@ -47,19 +47,19 @@
 
    **Example #1 :**
     
-    Algebraic : 
+    Algebraic :  ![Alt text](Photos/4.PNG)
 
     C :     m = (a + b + c + d + e) / 5 ;
    
    **Example #2 :**
     
-    Algebraic :
+    Algebraic : ![Alt text](Photos/5.PNG)
 
     C: y = m * x + b;
 
-   **Example #2 :**
+   **Example #3 :**
     
-    Algebraic :
+    Algebraic : ![Alt text](Photos/6.PNG)
 
     C: z = p * r % q + w / x - y;
 
