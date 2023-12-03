@@ -42,3 +42,32 @@
    3. + and - are evaluated next. If an expression contains + and - operators, evaluation proceeds left-to-right. These two operators have the same level of precedence, which is lower than that of *, / and %.
    
    4. The assignment operator (=) is evaluated last.
+
+### Sample Algebraic and C Expressions
+
+   **Example #1 :**
+    
+    Algebraic : 
+
+    C :     m = (a + b + c + d + e) / 5 ;
+   
+   **Example #2 :**
+    
+    Algebraic :
+
+    C: y = m * x + b;
+
+   **Example #2 :**
+    
+    Algebraic :
+
+    C: z = p * r % q + w / x - y;
+
+### Parentheses “on the Same Level”
+
+
+### Using Parentheses for Clarity
+   As in algebra, it’s acceptable to use redundant parentheses to make an expression
+   clearer. So, the preceding statement could be parenthesized as follows:
+   **y = (a * x * x) + (b * x) + c;**
+
