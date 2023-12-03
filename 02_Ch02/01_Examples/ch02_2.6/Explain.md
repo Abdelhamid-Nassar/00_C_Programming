@@ -101,7 +101,7 @@ A condition is an expression that can be true (that is, the condition is met) or
 ### Keywords
    Some words that we’ve used in this chapter’s examples, such as int, if and void, are **keywords** or reserved words of the language and have special meaning to the compiler. The following table contains the C keywords. Do not use them as identifiers.
 
-   |Keywords|
+   |Keywords|||||
    |:---------:|:---------:|:---------:|:---------:|:---------:|
    |auto|do|goto|signed|unsigned|
    |break|double|if|sizeof|void|
