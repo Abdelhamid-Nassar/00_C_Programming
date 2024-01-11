@@ -39,7 +39,7 @@
    
    2. *, / and % are applied next. If an expression contains several *, / and % operators, evaluation proceeds left-to-right. These three operators are said to be on the same level of precedence.
    
-   3. + and - are evaluated next. If an expression contains + and - operators, evaluation proceeds left-to-right. These two operators have the same level of precedence, which is lower than that of *, / and %.
+   3. "+" and "-" are evaluated next. If an expression contains + and - operators, evaluation proceeds left-to-right. These two operators have the same level of precedence, which is lower than that of *, / and %.
    
    4. The assignment operator (=) is evaluated last.
 
