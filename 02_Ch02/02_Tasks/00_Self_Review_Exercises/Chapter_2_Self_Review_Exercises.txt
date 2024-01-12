@@ -1,0 +1,76 @@
+// This part is already been answered
+
+2.1
+
+a) Main		b){	}	c) ;	d) printf  	e) enter
+f) scanf 	g) %d		h) destructive		i)nondestructive
+j) if
+
+
+2.2
+
+a) false	b) false	c) true 	d) true 	e) true
+f) false 	g) true		h) false 	i) true		j) false
+k) false
+
+2.3
+
+a) int number=0;
+b) printf ("Enter an integer: ");
+c) scanf ("%d",&a);
+d) if (number!=7)
+	{
+	 printf ("number is not equal to 7");
+	}
+e) puts("This is a C program.");
+f) printf ("This is a C\nprogram.");
+g) printf ("This\nis\na\nC\nprogram.\n");
+h) printf ("This\tis\ta\tC\tprogram.");
+
+2.4
+
+a) //This program will calculate the product of three integers.
+b) puts("Enter Three Intrgers");   OR 	printf("%s" , "Enter Three Intrgers");
+c) int x=0;
+d) int y=0;
+e) int z=0;
+f) scanf("%d%d%d", &x, &y, &z);
+g) int result= x * y * z;
+h) printf ("The product is: %d", result);
+
+2.5
+
+//This program will calculate the product of three integers.
+#include<stdio.h>
+
+int main(void)
+{
+    printf("%s" , "Enter Three Intrgers"); //prompt
+
+    int x=0;
+    int y=0;
+    int z=0;
+   
+    scanf("%d%d%d", &x, &y, &z); //read three integers
+    
+    int result= x * y * z; // multiply values
+    
+    printf ("The product is: %d", result); // display result
+}  // end function main
+
+2.6
+
+Identify and correct the errors in each of the following statements:
+
+a) printf("The value is %d\n", &number);  -----------> printf("The value is %d\n", number);
+
+b) scanf("%d%d", &number1, number2);	  -----------> scanf("%d%d", &number1, &number2);
+
+c) if (c < 7);{                           -----------> if (c < 7){
+puts("C is less than 7");		
+}
+
+d) if (c => 7) {			  -----------> if (c >= 7)
+puts("C is greater than or equal to 7");
+}
+

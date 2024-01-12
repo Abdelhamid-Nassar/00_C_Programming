@@ -1,0 +1,29 @@
+2.7 Identify and correct the errors in each of the following statements. (Note: There
+may be more than one error per statement.)
+
+
+a) scanf("d", value);						---------------> scanf("d", &value);  
+
+b) printf("The product of %d and %d is %d"\n, x, y);		---------------> printf("The product of %d and %d is %d\n", x, y, z);
+
+c) firstNumber + secondNumber = sumOfNumbers			---------------> sumOfNumbers = firstNumber + secondNumber
+
+d) if (number => largest) {					---------------> if (number >= largest) {
+largest == number;						---------------> largest = number;
+}
+
+e) */ Program to determine the largest of three integers /*     ---------------> /* Program to determine the largest of three integers */
+													OR
+								---------------> // Program to determine the largest of three integers
+
+f) Scanf("%d", anInteger);					---------------> scanf("%d", &anInteger);
+
+g) printf("Remainder of %d divided by %d is\n", x, y, x % y);   ---------------> printf("Remainder of %d divided by %d is %d\n", x, y, x % y);
+
+h) if (x = y); {						---------------> if (x == y) {
+printf(%d is equal to %d\n", x, y);				---------------> printf("%d is equal to %d\n", x, y);
+}
+
+i) print("The sum is %d\n," x + y);				---------------> print("The sum is %d\n,", x + y);
+
+j) Printf("The value you entered is: %d\n, &value);		---------------> Printf("The value you entered is: %d\n", value);

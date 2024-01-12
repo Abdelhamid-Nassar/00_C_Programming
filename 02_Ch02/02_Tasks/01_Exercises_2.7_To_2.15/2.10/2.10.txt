@@ -1,0 +1,36 @@
+2.10 State which of the following are true and which are false. If false, explain why.
+_____________________________________________________________________________________________
+
+a) C operators evaluate left-to-right.
+
+b) Each of the following is a valid variable name: _under_bar_, m928134, t5, j7, her_sales, his_account_total, a, b, c, z, z2.
+
+c) The statement printf("a = 5;"); is an example of an assignment statement.
+
+d) An arithmetic expression containing no parentheses evaluates left-to-right.
+
+e) The following are all invalid variable names: 3g, 87, 67h2, h22, 2h.
+
+
+ANSWER
+_____________
+
+a) False, they are evaluated according to their precedence and associativity.
+
+b) True
+
+c) False, is an example of dispalying if we want to assign it will be like 	a = 5;
+
+d) False, it will be evaluated according to their precedence and associativity.
+
+e) false h22 is valid all the other ar invalid
+
+
+
+
+
+
+
+
+
+https://eecs.wsu.edu/~cs150/tutorial/intro/soln2_10.html

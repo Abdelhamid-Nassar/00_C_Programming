@@ -1,0 +1,21 @@
+2.8 Fill-In the blanks in each of the following:
+
+a) ________ are used to document a program and improve its readability.
+
+b) The function used to display information on the screen is ________.
+
+c) A C statement that makes a decision is ________.
+
+d) Calculations are normally performed by ________ statements.
+
+e) The ________ function inputs values from the keyboard.
+
+
+
+Answer
+
+a) comment
+b) printf
+c) if 
+d) assignment
+e) scanf 

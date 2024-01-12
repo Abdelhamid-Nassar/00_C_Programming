@@ -1,0 +1,22 @@
+2.9 Write a single C statement or line that accomplishes each of the following:
+
+a) Display the message “Enter two numbers.”
+
+b) Assign the product of variables b and c to variable a.
+
+c) State that a program performs a sample payroll calculation (i.e., use text that helps to document a program).
+
+d) Input three integer values and place them in int variables a, b and c.
+
+
+
+answer
+
+a) puts ("Enter two numbers.");		OR 	 printf("%s","Enter two numbers.");	
+
+b) int a,b,c;
+   a = b*c ;
+
+c) // This program performs a sample payroll calculation
+
+d) scanf("%d%d%d", &a, &b, &c);

@@ -1,0 +1,15 @@
+2.13 Which of the following C statements contain variables whose values are replaced?
+_______________________________________________________________________________________
+
+a) scanf("%d%d%d%d%d", &b, &c, &d, &e, &f);
+
+b) p = i + j + k + 7;
+
+c) printf("%s", "Values are replaced");
+
+d) printf("%s", "a = 5");
+
+
+
+ANSWER
+__________________

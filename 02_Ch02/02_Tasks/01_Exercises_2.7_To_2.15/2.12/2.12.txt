@@ -1,0 +1,21 @@
+2.12 What, if anything, displays when each of the following statements is performed?
+If nothing displays, then answer “Nothing.” Assume x = 2 and y = 3.
+_______________________________________________________________________________________
+
+a) printf("%d", x);			        --------------------->	2
+
+b) printf("%d", x + x);			    --------------------->  4
+
+c) printf("%s", "x=");			    --------------------->  x=
+
+d) printf("x=%d", x);			    --------------------->  x=2
+
+e) printf("%d = %d", x + y, y + x);	--------------------->  5 = 5
+
+f) z = x + y;				        --------------------->  Nothing  "Assignment"
+
+g) scanf("%d%d", &x, &y);		    --------------------->  Nothing "add values to vatriables"
+
+h) // printf("x + y = %d", x + y);  --------------------->  Nothing "Comment"
+
+i) printf("%s", "\n");			    --------------------->  new line
