@@ -1,0 +1,8 @@
+/********************************************************************************************/
+/* 2.24 Distinguish between the terms fatal error and nonfatal error. Why might you         */
+/* prefer to experience a fatal error rather than a nonfatal error?                         */
+/********************************************************************************************/
+
+ We might prefer fetal error cause the program stops excution so we know that there is an error,
+ but in the other hand when nonfetal error the program continue to excute and outputs wrong results,
+ Therefore in some cases we couldn't know there is a nonfetal error.
